@@ -1,0 +1,7 @@
+
+ Customer Id : 101
+ Name        : Anurag Mathur
+ Age         : 20
+ Mobile No.  : 9818287915
+ Address     : D-354 , Nandhgram Ghaziabad 
+ Gender      : Male
