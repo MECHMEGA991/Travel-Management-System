@@ -54,11 +54,14 @@ File	Purpose
 
 📘 old_customer.txt	Stores customer details
 🧾 reciept.txt	Stores billing receipts
+
 🚀 How to Run
+
 g++ main.cpp -o travel.exe
 ./travel.exe
 
 📂 Project Structure
+
 📁 ABC Travel System
 │── main.cpp
 │── old_customer.txt   (auto-generated)
